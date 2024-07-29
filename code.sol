@@ -1,2 +1,2 @@
 // added the code's skeleton using good software engineering principles :^)
-// Finished feature1
+// fixed first bug in feature1
