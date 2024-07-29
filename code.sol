@@ -2,3 +2,5 @@
 // fixed first bug in feature1
 // Fixed second bug in feature1
 // Started feature2
+// Working on feature2
+// Finished feature2
